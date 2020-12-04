@@ -1,0 +1,91 @@
+
+.button-special{
+    -fx-background-color: #dce5dd;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 2;
+    -fx-font-size: 18;
+}
+
+.label1{
+    //-fx-background-color: #f9fffc;
+    -fx-text-fill: WHITE;
+    -fx-background-radius: 3;
+    -fx-font-size: 25;
+    //-fx-font:Georgia;
+}
+.error{
+    //-fx-background-color: #f9fffc;
+    -fx-text-fill: WHITE;
+    -fx-background-radius: 3;
+    -fx-font-size: 15;
+}
+.title{
+    //-fx-background-color: #f9fffc;
+    -fx-text-fill: WHITE;
+    -fx-background-radius: 3;
+    -fx-font-size: 50;
+    //-fx-font:Georgia;
+}
+
+
+.pane{
+    -fx-background-color: #529958;
+    //-fx-background-color: transparent;
+    -fx-background-size: 1300 600;
+    -fx-background-position: center;
+    -fx-background-repeat: repeat-y;
+
+}
+.root{
+    -fx-background-color: #383838;
+    //-fx-background-image: url("Capture.jpg");
+    -fx-background-size: 400 400;
+    -fx-background-position: right center;
+    -fx-background-repeat: repeat-y;
+    //-fx-opacity: 0.5;
+}
+
+.loginButton{
+    //-fx-background-color: #BDC3C7;
+    -fx-text-fill: #000000;
+    -fx-background-radius:2;
+    -fx-font-size:14;
+    //-fx-font-style: ;
+}
+
+.background{
+    -fx-background-color: #6da5ff;
+}
+
+.buttonSecondPage{
+    //-fx-background-color:#11351b ;
+    -fx-text-fill:#11351b;
+    -fx-background-radius: 7;
+    -fx-font-size: 22;
+    -fx-font-weight: bold;
+    //-fx-font-style:Bell MT;
+}
+
+.buttonThirdPage{
+    //-fx-background-color:#11351b ;
+    -fx-text-fill:#11351b;
+    -fx-background-radius: 7;
+    -fx-font-size: 14;
+}
+
+.exitFirstPage{
+    -fx-text-fill:#11351b;
+    -fx-background-radius: 5;
+    -fx-font-size: 16;
+    //-fx-font-weight: bold;
+}
+
+.Halls{
+    -fx-background-color:#4d747a ;
+    -fx-text-fill:#11351b;
+    -fx-background-radius: 7;
+    -fx-font-size: 18;
+    //-fx-font-weight: ;
+    -fx-font-style: italic;
+
+}
